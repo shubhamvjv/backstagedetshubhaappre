@@ -7,7 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.center}>
         <h1 className={styles.title}>
-          Portal App
+          Backstage NextJs Azure App
         </h1>
         <p className={styles.subtitle}>
           Your enterprise-ready Next.js application has been successfully provisioned via Backstage 
